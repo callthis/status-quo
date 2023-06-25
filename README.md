@@ -15,6 +15,8 @@ The existing state of affairs with its known degrees of freedoms and sanctions
   <li><h4><a href="./docs/01-02-01.md#121-fallibility">1.2.1 Fallibility </a></h4></li>
   
   <li><h4><a href="./docs/01-02-02.md#122-falsifiability">1.2.2 Falsifiability</a></h4></li>
+  
+  <li><h4><a href="./docs/01-02-03.md#123-trust-and-reliance">1.2.3 Trust and Reliance</a></h4></li>
  </ul>
 </ul>
 </div>
