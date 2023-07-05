@@ -17,6 +17,12 @@ The existing state of affairs with its known degrees of freedoms and sanctions
   <li><h4><a href="./docs/01-02-02.md#122-falsifiability">1.2.2 Falsifiability</a></h4></li>
   
   <li><h4><a href="./docs/01-02-03.md#123-trust-and-reliance">1.2.3 Trust and Reliance</a></h4></li>
+  
+  <li><h4><a href="./docs/01-02-04.md#124-empathy-sympathy-and-solidarity">1.2.4 Empathy, Sympathy, and Solidarity</a></h4></li>
+  
+  <li><h4><a href="./docs/01-02-05.md#125-friend-versus-foe">1.2.5 Friend versus Foe</a></h4></li>
+  
+  <li><h4><a href="./docs/01-02-06.md#126-most-fundamental-of-all-conceptions">1.2.6 Most Fundamental of All Conceptions</a></h4></li>
  </ul>
 </ul>
 </div>
