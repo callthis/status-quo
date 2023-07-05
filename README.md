@@ -22,7 +22,11 @@ The existing state of affairs with its known degrees of freedoms and sanctions
   <ul>
    <li><h4><a href="./docs/01-02-04.md#1241-dishonesty-and-cheating-within-brain-imaging-studies">1.2.4.1 Dishonesty and Cheating within Brain Imaging Studies</a></h4></li>
   </ul>
+  
   <li><h4><a href="./docs/01-02-05.md#125-friend-versus-foe">1.2.5 Friend versus Foe</a></h4></li>
+  <ul>
+   <li><h4><a href="./docs/01-02-05.md#1251-obligation-versus-courtesy">1.2.5.1 Obligation versus Courtesy</a></h4></li>
+  </ul>
   
   <li><h4><a href="./docs/01-02-06.md#126-most-fundamental-of-all-conceptions">1.2.6 Most Fundamental of All Conceptions</a></h4></li>
  </ul>
