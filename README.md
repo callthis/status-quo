@@ -30,9 +30,11 @@ The existing state of affairs with its known degrees of freedoms and sanctions
   
   <li><h4><a href="./docs/01-02-06.md#126-most-fundamental-of-all-conceptions">1.2.6 Most Fundamental of All Conceptions</a></h4></li>
   <ul>
-   <li><h4><a href="./docs/01-02-06.md#1261-the-most-excellent-personas-fabulous-world">1.2.6.1 The most excellent persona's fabulous world</a></h4></li>
+   <li><h4><a href="./docs/01-02-06.md#1261-the-power-of-information-and-effective-knowledge">1.2.6.1 The power of information, and effective knowledge</a></h4></li>
+  
+   <li><h4><a href="./docs/01-02-06.md#1262-the-most-excellent-personas-fabulous-world">1.2.6.2 The most excellent persona's fabulous world</a></h4></li>
    
-   <li><h4><a href="./docs/01-02-06.md#1262-the-biggest-of-big-guns">1.2.6.2 The biggest of big guns</a></h4></li>
+   <li><h4><a href="./docs/01-02-06.md#1263-the-biggest-of-big-guns">1.2.6.3 The biggest of big guns</a></h4></li>
   </ul>
  </ul>
 </ul>
