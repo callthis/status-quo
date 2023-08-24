@@ -37,16 +37,19 @@ The existing state of affairs with its known degrees of freedoms and sanctions
    <li><h4><a href="./docs/01-02-06.md#1263-the-biggest-of-big-guns">1.2.6.3 The biggest of big guns</a></h4></li>
   </ul>
   
-  <li><h4><a href="./01-02-07.md#127-zero-day-faults">1.2.7 Zero-day Faults</a></h4></li>
+  <li><h4><a href="./docs/01-02-07.md#127-zero-day-faults">1.2.7 Zero-day Faults</a></h4></li>
   <ul>
-   <li><h4><a href="./01-02-07.md#1271-ontological-methods-in-systems-engineering">1.2.7.1 Ontological Methods in Systems Engineering</a></h4></li>
+   <li><h4><a href="./docs/01-02-07.md#1271-ontological-methods-in-systems-engineering">1.2.7.1 Ontological Methods in Systems Engineering</a></h4></li>
    
-   <li><h4><a href="./01-02-07.md#1272-doctrines-are-unquestionable-question-mark">1.2.7.2 Doctrines are Unquestionable, Question Mark</a></h4></li>
+   <li><h4><a href="./docs/01-02-07.md#1272-doctrines-are-unquestionable-question-mark">1.2.7.2 Doctrines are Unquestionable, Question Mark</a></h4></li>
    
-   <li><h4><a href="./01-02-07.md#1273-significant-topics-for-serious-consideration-when-building-and-deploying-a-military-ai">1.2.7.3 Significant Topics for Serious Consideration, when Building and Deploying a Military AI</a></h4></li>
+   <li><h4><a href="./docs/01-02-07.md#1273-significant-topics-for-serious-consideration-when-building-and-deploying-a-military-ai">1.2.7.3 Significant Topics for Serious Consideration, when Building and Deploying a Military AI</a></h4></li>
    
-   <li><h4><a href="./01-02-07.md#1274-gain-of-function">1.2.7.4 Gain-of-Function</a></h4></li>
-   
+   <li><h4><a href="./docs/01-02-07.md#1274-gain-of-function">1.2.7.4 Gain-of-Function</a></h4></li>
+  </ul>
+  
+  <li><h4><a href="./docs/01-02-08.md#128-zero-trust-security-systems-architecture">1.2.8 Zero-Trust Security Systems Architecture</a></h4></li>
+  
  </ul>
 </ul>
 </div>
