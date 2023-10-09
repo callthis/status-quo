@@ -1,5 +1,5 @@
     "A shrub in the desert is a tree. 
-    And to a dust-mite in the desert, 
+    And for a dust-mite in the desert, 
     The shrub might as well be an entire forest."
 
 'Tokenizing' special characters in a set of strings,
