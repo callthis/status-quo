@@ -1,0 +1,26 @@
+    "A shrub in the desert is a tree. 
+    And to a dust-mite in the desert, 
+    The shrub might as well be an entire forest."
+
+'Tokenizing' special characters in a set of strings,
+can be challenging. However, numerals like: 765239 
+can be handled more conveniently. On the other hand,
+a defined value such as 2.220446049250313e-16 might not 
+get parsed correctly. And hopefully you obtained the given
+text with suitable line-endings in the form of \n 
+or an empty space such as "", instead of a
+\r\n or a sudden 0x1A in the middle of the text. 
+
+Additionally, make sure that white spaces didn't encode
+some kind of a special meaning.
+
+Figuring out what counts as a typesetting error, spelling 
+mistake, typo, or a grammatical mistake versus 
+an encoded message, is an important task, that can be taken up
+
+in a later stage of analysis.
+
+Having said that, a coder's or a code breaker's ability to notice
+trends or repeating cellular structures known as "patterns"
+is key to parsing, and thereafter interpreting the given text,
+or a sample of signals. 
