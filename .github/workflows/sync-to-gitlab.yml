@@ -39,6 +39,6 @@ jobs:
       - uses: action-pack/gitlab-sync@master
         with:
           username: ${{ secrets.GITLAB_USERNAME }}
-          token: ${{ secrets.GITLAB_SYNC_TRUE_HINDSIGHT }}
+          token: ${{ secrets.GITLAB_SYNC_CALL_THIS }}
           url: https://gitlab.com/call-this/status-quo/.git
           
