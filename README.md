@@ -63,6 +63,4 @@ The existing state of affairs with its known degrees of freedoms, and sanctions 
 
     - "to give approbations and approvals for something, or to someone", or,
     
-    - "to give proscriptions and censures for something, or to someone."
-  
-    See: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
+    - "to give proscriptions and censures for something, or to someone." Also see: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
