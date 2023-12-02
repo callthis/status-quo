@@ -61,8 +61,8 @@ The existing state of affairs with its known degrees of freedoms, and sanctions 
 
 [^1]: The word, affordance, is a synonym of the word, sanction. Depending on the context, "sanction" can have either of the following meanings: 
 
-  - "to give approbations and approvals for something, or to someone", or,
+    - "to give approbations and approvals for something, or to someone", or,
+    
+    - "to give proscriptions and censures for something, or to someone."
   
-  - "to give proscriptions and censures for something, or to someone."
-  
-  See: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
+    See: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
