@@ -1,6 +1,6 @@
 # Status Quo
 
-The existing state of affairs with its known degrees of freedoms and sanctions
+The existing state of affairs with its known degrees of freedoms, and sanctions (affordences).[^1]
 
 ## Table of Contents
 <div id="user-content-toc">
@@ -57,3 +57,10 @@ The existing state of affairs with its known degrees of freedoms and sanctions
 --- 
 
 [Work in progress]
+
+
+[^1]: The word, affordence, is a synonym of the word, sanction. Depending on the context, "sanction" can have either of the following meanings: 
+
+  - "to give approbations and approvals"
+  
+  - "to give proscriptions and censures"
