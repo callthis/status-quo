@@ -1,6 +1,6 @@
 # Status Quo
 
-The existing state of affairs with its known degrees of freedoms, and sanctions (affordances)[^1].
+The existing state of affairs with its known degrees of freedoms, and sanctions (i.e. affordances).[^1]
 
 ## Table of Contents
 <div id="user-content-toc">
