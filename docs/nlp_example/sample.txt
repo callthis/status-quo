@@ -8,7 +8,7 @@ can be handled more conveniently. On the other hand,
 a defined value such as 2.220446049250313e-16 might not 
 get parsed correctly. And hopefully you obtained the given
 text with suitable line-endings in the form of \n 
-or an empty space such as "", instead of a
+or an empty space such as " ", instead of a
 \r\n or a sudden 0x1A in the middle of the text. 
 
 Additionally, make sure that white spaces didn't encode
