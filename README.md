@@ -48,9 +48,12 @@ The existing state of affairs with its known degrees of freedoms, and sanctions 
    <li><h4><a href="./docs/01-02-07.md#1274-gain-of-function">1.2.7.4 Gain-of-Function</a></h4></li>
   </ul>
   
-  <li><h4><a href="./docs/01-02-08.md#128-zero-trust-security-systems-architecture">1.2.8 Zero-Trust Security Systems Architecture</a></h4></li>
+   <li><h4><a href="./docs/01-02-08.md#128-zero-trust-security-systems-architecture">1.2.8 Zero-Trust Security Systems Architecture</a></h4></li>
+  </ul>
   
- </ul>
+ <li><h4><a href="./docs/01-02.md#12-vedh">1.2 Vedh</a></h4></li>
+
+ <ul>  
 </ul>
 </div>
 
