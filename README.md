@@ -48,12 +48,13 @@ The existing state of affairs with its known degrees of freedoms, and sanctions 
    <li><h4><a href="./docs/01-02-07.md#1274-gain-of-function">1.2.7.4 Gain-of-Function</a></h4></li>
   </ul>
   
-   <li><h4><a href="./docs/01-02-08.md#128-zero-trust-security-systems-architecture">1.2.8 Zero-Trust Security Systems Architecture</a></h4></li>
-  </ul>
+  <li><h4><a href="./docs/01-02-08.md#128-zero-trust-security-systems-architecture">1.2.8 Zero-Trust Security Systems Architecture</a></h4></li>
   
- <li><h4><a href="./docs/01-02.md#12-vedh">1.2 Vedh</a></h4></li>
-
- <ul>  
+  <li><h4><a href="./docs/01-02-09.md#129-automated-discovery-and-exploitation-of-zero-day-faults">1.2.9 Automated Discovery and Exploitation of Zero-day Faults</a></h4></li>
+ </ul>
+  
+ <li><h4><a href="./docs/01-03.md#13-daam">1.3 Daam</a></h4></li>
+ 
 </ul>
 </div>
 
@@ -66,4 +67,6 @@ The existing state of affairs with its known degrees of freedoms, and sanctions 
 
     - "to give approbations and approvals for something, or to someone", or,
     
-    - "to give proscriptions and censures for something, or to someone." Also see: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
+    - "to give proscriptions and censures for something, or to someone." 
+    
+    Also see: https://en.wikipedia.org/wiki/Affordance#Mechanisms_and_conditions_framework_of_affordances
